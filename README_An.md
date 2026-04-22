@@ -4,7 +4,7 @@
 ---
 
 ##  Repository Structure
-
+Streamlit link:- https://prime-trade-assignment.streamlit.app/
 ```
 primetrade_analysis/
 │
